@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/582718021.svg)](https://zenodo.org/doi/10.5281/zenodo.12507163)
 
 <h1 align="center">Diet Recommendation System</h1>
 <div align= "center"><img src="Assets/logo_img1.jpg" />
@@ -81,7 +80,6 @@ The project is created with:
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
 ```
 ### docker-compose
 In the project root run:
@@ -97,14 +95,9 @@ https://diet-recommendation-system.streamlit.app/
 
 ## Citation
 ```
-@software{narjis_2024_12507829,
-  author       = {Narjis, Zakaria},
+  author       = {Bhoomi},
   title        = {Diet recommendation system},
-  month        = jun,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.12507829},
-  url          = {https://doi.org/10.5281/zenodo.12507829}
-}
+  month        = May,
+  year         = 2025,
+
 ```
